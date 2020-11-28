@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: opus-api
+Version: 0.6.2
+Summary: OPUS (opus.nlpl.eu) Python API
+Home-page: https://github.com/yonkornilov/opus-api
+Author: Yonathan Koren
+Author-email: yonkornilov@live.com
+License: MIT license
+Keywords: opus_api,api,parallel,corpora,mmt
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: click (>=6.7)
+Requires-Dist: beautifulsoup4 (>=4.6.0)
+Requires-Dist: requests (>=2.19.1)
+Requires-Dist: diskcache (>=3.0.6)
+Requires-Dist: selenium (>=3.13.0)
+Requires-Dist: cryptography (>=2.3)
+
+OPUS (opus.nlpl.eu) Python3 API and CLI.    Read the `documentation <http://opus-api.readthedocs.io>`__.
+
+
