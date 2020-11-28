@@ -1,0 +1,27 @@
+Squad 1
+:ShieldOfTrust: X :SupportShot:
+:JudgmentBlade: X
+:JudgmentBlade: X :DeathMark:
+
+Squad 2
+:ShieldOfTrust: X :Dance:
+:CelestialSpike: X
+:JudgmentBlade: X :bfo:
+
+Squad 3
+:ShieldOfTrust: X
+:CelestialSpike: X
+:CelestialSpike: X
+
+Squad 4
+:ShieldOfTrust: X
+:CelestialSpike: X
+:JudgmentBlade: X
+
+Squad 5
+:ShieldOfTrust: X
+:JudgmentBlade: X :Dance:
+:JudgmentBlade: X
+
+Solo
+:ShieldOfTrust: X :AxeMastery:
