@@ -1,4 +1,4 @@
 .idea
 venv
-./resources/Text/Token.txt
-./Audio/*
+resources/Text/Token.txt
+Audio/*
