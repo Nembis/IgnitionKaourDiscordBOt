@@ -1,4 +1,4 @@
 .idea
-./venv
-./resources/Text/Token/Text
-./Audio/**/*
+venv
+./resources/Text/Token.Text
+./Audio/*
